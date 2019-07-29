@@ -6,6 +6,6 @@ object Demo {
 
   }
   def show(): Unit ={
-    println("这是新增的方法")
+    println("1111111")
   }
 }
