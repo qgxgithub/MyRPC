@@ -8,4 +8,8 @@ object Demo {
   def show(): Unit ={
     println("1111111")
   }
+
+  def eat(): Unit ={
+
+  }
 }
