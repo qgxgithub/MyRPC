@@ -12,4 +12,11 @@ object Demo {
   def eat(): Unit ={
 
   }
+
+  /**
+    *
+    */
+  def fenzhimethod(): Unit ={
+
+  }
 }
