@@ -5,4 +5,7 @@ object Demo {
      println("hello word")
 
   }
+  def show(): Unit ={
+    println("这是新增的方法")
+  }
 }
